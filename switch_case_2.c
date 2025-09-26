@@ -14,7 +14,10 @@ int main() {
            break;               // cuz here basically all ther cases must get executed too a by default
                                // but here we added BREAK;  so it breaks the code 
         case 3:               // so when the value matches it straight goes....
-           printf("the value of a is 3 "); 
+           printf("the value of a is 3 ");
+           
+        default:
+        printf("this is always a default");
     }                        // here where our SWITCH-CASE ends .....                    
   
  return 0;

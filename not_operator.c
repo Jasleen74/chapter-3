@@ -5,6 +5,6 @@ int main() {
      scanf("%d",&a);
 
      printf ("the value of not (a) is %d", !a );
-     
+
  return 0;
 }

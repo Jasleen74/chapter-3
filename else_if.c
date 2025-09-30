@@ -15,8 +15,8 @@ int main() {
     printf  ("you are at the most productive age ");
     }
     
-    else {
-        printf(" Age dosent matter");
+    else {                                   // this else is optional
+        printf(" Age dosent matter");    
     }
     
  return 0;
